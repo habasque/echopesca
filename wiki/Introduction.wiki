@@ -1,0 +1,13 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Echopesca is an open-source software package build in MATLAB & MOVIES3D. It is specifically developed to process, analyse and visualize monofrecuency acoustic data collected by fishing vessels
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
