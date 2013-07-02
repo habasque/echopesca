@@ -7,6 +7,6 @@ Echopesca is an open-source software package build in MATLAB & MOVIES3D. It is s
 
 = System Requirements =
 
-• Windows Seven 64 bits and 3/4Go RAM
-• Matlab 64 bits installed
-• Movies3D 64 bits installed
+  * Windows Seven 64 bits and 3/4Go RAM
+  * Matlab 64 bits installed
+  * Movies3D 64 bits installed
