@@ -1,0 +1,18 @@
+#Conversion from RAW to HAC file.
+
+# a) RAW file validity checking #
+
+> Data files should first be validated to confirm that they are useable. RAW files validity is checked e.g. if the echogram is valid (double pings), if there is no « beam mode change », etc. (Towler, R. H. (2013). readEKRaw MATLAB library (4/4/13) [software](Computer.md). Seattle, WA: Alaska Fisheries Science Center).
+
+> To check RAW file validity, Echopen program check\_raw\_file.m is used. It allows to check if :
+    * the echogram is valid (double pings),
+    * there is no « beam mode change ».
+
+
+# b) RAW files conversion to HAC files with ER60 v2.4 #
+
+  * First load the RAW files
+  * Create and select “hac-divided” directory for HAC files output
+  * Set “maximum file size” to 100Mo
+  * Select “Sv” field
+  * Set surface range (0-100m for Peruvian area)
